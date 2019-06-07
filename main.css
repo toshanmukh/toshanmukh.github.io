@@ -1,0 +1,31 @@
+h1{
+    color:darkred;
+}
+h2{
+    color:orangered;
+
+}
+h3{
+    #prof{
+    color:indianred;
+    }
+    #lin{
+        color:orangered;
+    }
+}
+#box{
+    margin:100px;
+    background:gold;
+    padding:30px;
+}
+body{
+    background:bisque;
+}
+img{
+    width:200px;
+    margin: 10px;
+    border:3px solid orangered;
+    border-radius:200px;
+    height: 200px;
+    float: right;
+}
