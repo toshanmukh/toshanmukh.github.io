@@ -5,14 +5,15 @@ h2{
     color:orangered;
 
 }
-h3{
-    #prof{
+
+#prof{
     color:indianred;
     }
-    #lin{
+#lin{
         color:orangered;
-    }
 }
+    
+
 #box{
     margin:100px;
     background:gold;
